@@ -4,3 +4,4 @@
 - layout 만들기
 - Button 컴포넌트 사용
 - Table 컴포넌트 사용
+- Panel 컴포넌트
